@@ -1,0 +1,31 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    margin-top: 30px;
+}
+
+.row{
+    text-align: center;
+}
+
+#secondRow {
+    padding-top: 30px;
+}
+
+.btn {
+    margin-top: 30px;
+    box-shadow: 5px 5px rgb(39, 39, 39);
+}
